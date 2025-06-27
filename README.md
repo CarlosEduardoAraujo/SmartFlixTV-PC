@@ -174,4 +174,16 @@ sudo dnf install gstreamer1-plugins-base gstreamer1-plugins-good gstreamer1-plug
 sudo pacman -S gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-libav
 ```
 
+## Baixar o Executável
+
+A versão mais recente do aplicativo está disponível na aba [Releases](https://github.com/CarlosEduardoAraujo/SmartFlixTV-PC/releases).
+
+## Suporte e Feedback
+
+Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abra uma [Issue](https://github.com/CarlosEduardoAraujo/SmartFlixTV-PC/issues). Se quiser falar diteramente, entre em nosso Discord e interaja https://discord.gg/XPGMh2UmE6. A comunidade e os desenvolvedores estão prontos para ajudar.
+
+## Listas IPTV
+
+Nós não distribuimos lista IPTV*
+
 Desenvolvido para entusiastas de IPTV! 
